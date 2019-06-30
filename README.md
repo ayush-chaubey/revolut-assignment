@@ -120,7 +120,7 @@ Response:
 Account with account Number:500 doesn't exists.
 **Status: 404 Not Found**
 
-## Transaction API - `/transactions`
+## Transaction API - `/transaction`
 
 **POST** - Transfer money between the ccounts supplied in the transaction body
 
