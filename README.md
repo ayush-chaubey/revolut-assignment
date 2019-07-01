@@ -72,7 +72,7 @@ Response:
     "balance": 1000
 }
 ```
-Account with account Number:300 doesn't exists.
+Account does not exist in the records | Account number = 300
 **Status: 404 Not Found**
 
 **/{accountNumber}/balance** - account Number
@@ -87,7 +87,7 @@ Response:
     "balance": 1000
 }
 ```
-Account with account Number:500 doesn't exists.
+Account does not exist in the records | Account number = 500
 **Status: 404 Not Found**
 
 **/{accountNumber}/deposit/{amount}** - account Number
