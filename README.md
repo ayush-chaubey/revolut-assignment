@@ -1,7 +1,7 @@
 # revolut-assignment
 Revolut Test Assignment
 
-Money Transfer rest service
+REST API for money transfer between two accounts
 
 Default starts on  http://localhost:8080
 
